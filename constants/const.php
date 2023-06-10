@@ -3,7 +3,9 @@ define("URL", "http://localhost/multi-ecom/");
 
 define('SERVER', 'localhost');
 
-define("ASSETS", "http://localhost/multi-ecom/public/");
+define("FRONTEND", "http://localhost/multi-ecom/public/frontend/");
+
+define("BACKEND", "http://localhost/multi-ecom/public/backend/");
 
 define('DBNAME', 'multi-ecomm');
 
